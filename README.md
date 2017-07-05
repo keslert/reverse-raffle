@@ -13,5 +13,5 @@ View page at http://localhost:3000
 
 #### Accepting pull requests for the following:
 
-[ ] Import names from Google Spreadsheet.
-[ ] Auto-resize list-item size based on number of items.
+- [ ] Import names from Google Spreadsheet.
+- [ ] Auto-resize list-item size based on number of items.
