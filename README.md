@@ -3,7 +3,7 @@ Reverse Raffle
 
 ### Getting Started
 ``` bash
-$ git clone https://github.com/keslert/color-palette-generator.git
+$ git clone https://github.com/keslert/reverse-raffle.git
 $ cd reverse-raffle
 $ yarn # installs dependencies
 $ yarn start
